@@ -1,0 +1,199 @@
+.cards {
+    display: flex;
+}
+
+#right,
+#wrong {
+    height: 20px;
+    width: 20px;
+}
+
+#arrow {
+    height: 40px;
+    width: 40px;
+
+}
+
+#chevron {
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+
+}
+
+.pink {
+    background-color: #EC2E80;
+}
+
+.up-vertical {
+    border-left: 6px solid black;
+    height: 100px;
+
+
+}
+
+.down-vertical {
+    border-left: 6px solid black;
+    height: 100px;
+
+    left: 50%;
+}
+
+.arrdiv {
+    display: flex;
+    flex-direction: column;
+margin: 40px;
+
+    align-items: center;
+}
+
+.consult {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EEF2F5;
+    width: 100%;
+}
+.purple{
+   color:#EC2E80 ;
+}
+.one {
+    color: white;
+    align-items: center;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+}
+
+.topone {
+    display: flex;
+
+    justify-content: center;
+}
+
+.advan>.two>img {
+    width: 50px;
+    height: 50px;
+}
+
+.advan {
+    display: flex;
+    background-color: #EEF2F5;
+    justify-content: center;
+}
+
+.two {
+    align-items: center;
+
+    display: flex;
+}
+
+.bottomone {
+    display: flex;
+
+    justify-content: center;
+}
+
+.leftone {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+}
+
+.rightone {
+    display: flex;
+    flex-direction: column;
+    top: 5%;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 80px;
+    height: 80px;
+    color: blue;
+    margin: 10px;
+}
+
+.card>p {
+    font-size: 50px;
+
+}
+
+.cards {
+    display: flex;
+
+}
+
+#fname,
+#lname {
+    width: 250px;
+    height: 40px;
+}
+
+.submit {
+    width: 250px;
+    height: 40px;
+}
+
+.rightbottom {
+
+    color: blue;
+}
+.three{
+ display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   color: rgb(92, 92, 234);
+}
+.threeup{
+    display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      margin: 30px;
+   }
+   tr{
+   border:1px solid grey;
+   margin: 30px;
+   padding: 30px;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  
+   }
+   .four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    }
+    .header{
+        color: #EC2E80;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+       
+        }
+        .five{
+            color: #24456F;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+           
+            }
+            .five>button{
+                color: #24456F;
+                width: 700px;
+               border-color: aliceblue;
+               background-color: white;
+               border-radius: 5px;
+        margin: 10px;
+
+                }
